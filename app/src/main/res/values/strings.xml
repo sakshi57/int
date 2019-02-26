@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EntreClub</string>
+    <string name="team_a2v">Team A2V</string>
+    <string name="edit_profile">Edit Profile </string>
+    <string name="edit_description">Edit Description</string>
+    <string name="edit_photo">Edit Profile Picture</string>
+    <string name="sign_out">Sign Out</string>
+
+</resources>

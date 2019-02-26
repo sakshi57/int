@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "161879976337",
+    "firebase_url": "https://entreclub-cb5d1.firebaseio.com",
+    "project_id": "entreclub-cb5d1",
+    "storage_bucket": "entreclub-cb5d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161879976337:android:58b96818e45ab933",
+        "android_client_info": {
+          "package_name": "com.example.deentreclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161879976337-froq9c4rbfvh66lo5g0b1jg1de7djije.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deentreclub",
+            "certificate_hash": "4fac646184fb814b84e2a4991320020132904f1d"
+          }
+        },
+        {
+          "client_id": "161879976337-eatkkaoufqesbs9lgburv2i12o541e84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxpremoa8sMSpC-BJxpUtMvFTSKMWwDMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161879976337-eatkkaoufqesbs9lgburv2i12o541e84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
